@@ -140,7 +140,7 @@ SESSION_CONFIG_DEFAULTS = {
 SESSION_CONFIGS = [
     {
         'name': 'public_goods',
-        'display_name': "Public Goods",
+        'display_name': "Public Goods fjksdflkh",
         'num_demo_participants': 3,
         'app_sequence': ['public_goods', 'payment_info'],
     },

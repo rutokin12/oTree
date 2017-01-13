@@ -3,7 +3,7 @@ version: "2"
 services:
 
   database:
-    image: postgres:9.5
+    image: rutokin12/oTree
     environment:
       POSTGRES_DB: ${PG_DATABASE}
       POSTGRES_USER: ${PG_USER}
